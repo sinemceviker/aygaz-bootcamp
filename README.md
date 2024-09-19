@@ -22,3 +22,6 @@ Bu proje, kredi kartı bilgilerini yönetmek için bir uygulama geliştirmeyi he
 2. Bu reposu klonlayın:
    ```bash
    git clone [repo bağlantısı]
+##Kaggle
+https://www.kaggle.com/code/sinemeviker/fork-of-creditcard-supervised
+https://www.kaggle.com/code/sinemeviker/creditcard-unsupervised
